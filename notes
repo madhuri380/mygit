@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 EBS - Elastic block storage or block level storage - 1AZ
  Instance+storage(EBS) - size 16TB
 1. EBS will still remain even after terminating the instance
 2. You need to back up data as EBS snapshot is incremental data backup
+=======
+check for modified data
+>>>>>>> remotes/origin/master
