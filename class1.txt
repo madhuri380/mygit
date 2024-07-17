@@ -1,2 +1,6 @@
 hello World
+<<<<<<< HEAD
 
+=======
+welcome to learn git commands
+>>>>>>> b8d886fbaf6bc2de869a379df95ba19acd492fc1
